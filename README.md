@@ -1,5 +1,4 @@
 # Flipkart-Sales-Analysis
-# Flipkart Sales Analysis Project
 
 ## 📌 Overview
 This project analyzes Flipkart’s sales dataset to identify trends, category performance, top products, regional sales distribution, and the effect of discounts on sales.
